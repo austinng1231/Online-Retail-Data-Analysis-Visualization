@@ -32,14 +32,6 @@ Analyze a large retail transactional dataset to uncover revenue trends, customer
 ### 1. Executive Overview Dashboard
 ![Executive Overview](images/executive-overview.png)
 
-### 2. Customer Segmentation (RFM Analysis)
-![RFM Segmentation](images/rfm-segmentation.png)
-
-### 3. Geographic Revenue Analysis
-![Geographic Analysis](images/geographic-analysis.png)
-
-### 4. Return & Revenue Trends
-![Return Analysis](images/return-analysis.png)
 
 ## How to View the Dashboard
 - The interactive version is built in **Power BI Desktop**.
